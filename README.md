@@ -1,3 +1,6 @@
+Developed a UIPath robot to read contact details and messages from an excel sheet and deliver pre-set messages on selected messenger applications at a specific date to selected contacts.
+
+
 ## Installation
 ### Downloading the software
 1. Go to https://cloud.uipath.com/portal_/register and make an account or log in to your account
